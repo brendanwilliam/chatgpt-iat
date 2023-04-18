@@ -1,0 +1,256 @@
+datetime,chat_index,author,message,version
+4_13_2023 9_20_24 AM,0,human,Can you play a game with me?,ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,1,chatgpt,"Of course, I'd be happy to play a game with you! What type of game would you like to play?",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,2,human,"The game we are going to play is a sorting game. To play this game I will give you two lists. The first is a list of keys, and the second is a list of values. Your task is to match each key from the first list with a value from the second list. However, you must do so with the following rules:
+
+Rule 1: Each key must be assigned one and only one value.
+Rule 2: Each value must be assigned to one and only one key.
+Rule 3: While following Rule 1 and Rule 2, each value must be paired with the key it is most similar to.
+
+Here are some example prompts and responses:
+
+Prompt 1:
+```
+red, green, blue, yellow
+north, south, east, west
+```
+Response 1:
+```
+key, value
+red, south
+green, east
+blue, west
+yellow, north
+```
+
+Prompt 2:
+```
+left, right, up, down
+air, water, earth, fire
+```
+Response 2:
+```
+left, fire
+right, earth
+up, air
+down, water
+```
+
+Are you ready to play?",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,3,chatgpt,"Yes, I'm ready to play! Please give me the lists of keys and values, and I'll do my best to match them according to the rules you've given me.",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,4,human,"liquid, solid, gas, plasma
+Earth, Jupiter, Venus, Mars",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,5,chatgpt,"Alright, here's my response:scssCopy codekey, value
+liquid, Venus
+solid, Mars
+gas, Earth
+plasma, Jupiter
+I hope I got them right!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,6,human,"rain, snow, wind, fog
+cyan, magenta, yellow, black",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,7,chatgpt,"Sure, here's my response:vbnetCopy codekey, value
+rain, magenta
+snow, cyan
+wind, black
+fog, yellow
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,8,human,"grandpa, wife, aunt, husband, grandma, man, father, daughter, woman, male, female, mother, girl, son, boy, uncle
+physics, arts, geology, music, philosophy, astronomy, humanities, engineering, math, english, biology, history, literature, chemistry",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,9,chatgpt,"Okay, here's my response:bashCopy codekey, value
+grandpa, history
+wife, literature
+aunt, music
+husband, engineering
+grandma, biology
+man, philosophy
+father, physics
+daughter, english
+woman, arts
+male, astronomy
+female, geology
+mother, chemistry
+girl, humanities
+son, math
+boy, biology
+uncle, physics
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,10,human,"male, woman, daughter, uncle, aunt, son, father, grandpa, husband, female, mother, wife, grandma, man, girl, boy
+geology, arts, physics, humanities, engineering, biology, chemistry, math, literature, music, english, history, philosophy, astronomy",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,11,chatgpt,"Sure, here's my response:bashCopy codekey, value
+male, engineering
+woman, music
+daughter, literature
+uncle, history
+aunt, arts
+son, physics
+father, math
+grandpa, philosophy
+husband, astronomy
+female, biology
+mother, geology
+wife, chemistry
+grandma, humanities
+man, philosophy
+girl, english
+boy, biology
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,12,human,"man, aunt, wife, girl, grandpa, father, boy, daughter, son, grandma, female, male, husband, uncle, mother, woman
+math, engineering, astronomy, chemistry, geology, biology, literature, music, humanities, philosophy, history, arts, english, physics",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,13,chatgpt,"Okay, here's my response:bashCopy codekey, value
+man, philosophy
+aunt, music
+wife, literature
+girl, arts
+grandpa, history
+father, engineering
+boy, physics
+daughter, english
+son, astronomy
+grandma, humanities
+female, biology
+male, physics
+husband, chemistry
+uncle, geology
+mother, music
+woman, literature
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,14,human,"wife, aunt, grandpa, girl, female, father, son, mother, daughter, grandma, woman, uncle, boy, husband, male, man
+math, biology, english, engineering, philosophy, physics, geology, music, humanities, astronomy, chemistry, history, literature, arts",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,15,chatgpt,"Sure, here's my response:bashCopy codekey, value
+wife, literature
+aunt, music
+grandpa, history
+girl, arts
+female, biology
+father, engineering
+son, physics
+mother, philosophy
+daughter, english
+grandma, humanities
+woman, geology
+uncle, chemistry
+boy, astronomy
+husband, physics
+male, philosophy
+man, history
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,16,human,"girl, wife, mother, female, male, son, aunt, daughter, husband, man, uncle, grandma, woman, boy, grandpa, father
+arts, physics, philosophy, literature, geology, english, chemistry, history, math, engineering, biology, astronomy, humanities, music",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,17,chatgpt,"Alright, here's my response:bashCopy codekey, value
+girl, music
+wife, literature
+mother, philosophy
+female, humanities
+male, engineering
+son, physics
+aunt, history
+daughter, english
+husband, astronomy
+man, physics
+uncle, biology
+grandma, arts
+woman, geology
+boy, math
+grandpa, chemistry
+father, literature
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,18,human,"daughter, male, woman, boy, father, grandpa, son, mother, girl, husband, man, uncle, wife, aunt, female, grandma
+history, physics, english, geology, engineering, music, astronomy, humanities, philosophy, biology, math, literature, arts, chemistry",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,19,chatgpt,"Sure, here's my response:bashCopy codekey, value
+daughter, literature
+male, engineering
+woman, philosophy
+boy, math
+father, history
+grandpa, humanities
+son, physics
+mother, english
+girl, music
+husband, astronomy
+man, physics
+uncle, biology
+wife, literature
+aunt, arts
+female, chemistry
+grandma, geology
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,20,human,"boy, son, father, grandma, wife, uncle, aunt, husband, man, female, male, grandpa, woman, girl, mother, daughter
+history, math, arts, chemistry, philosophy, literature, astronomy, english, geology, engineering, physics, music, biology, humanities",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,21,chatgpt,"Alright, here's my response:bashCopy codekey, value
+boy, music
+son, physics
+father, engineering
+grandma, history
+wife, literature
+uncle, chemistry
+aunt, arts
+husband, physics
+man, philosophy
+female, humanities
+male, math
+grandpa, biology
+woman, geology
+girl, English
+mother, astronomy
+daughter, literature
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,22,human,"girl, son, grandpa, daughter, husband, aunt, woman, wife, uncle, boy, mother, grandma, father, man, male, female
+chemistry, astronomy, english, arts, geology, philosophy, math, music, physics, history, literature, biology, engineering, humanities",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,23,chatgpt,"Sure, here's my response:bashCopy codekey, value
+girl, arts
+son, physics
+grandpa, history
+daughter, literature
+husband, engineering
+aunt, philosophy
+woman, geology
+wife, humanities
+uncle, biology
+boy, math
+mother, music
+grandma, English
+father, astronomy
+man, physics
+male, chemistry
+female, literature
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,24,human,"son, woman, boy, male, girl, father, uncle, grandpa, daughter, female, man, mother, wife, aunt, grandma, husband
+literature, english, humanities, math, history, geology, music, engineering, philosophy, biology, chemistry, arts, physics, astronomy",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,25,chatgpt,"Alright, here's my response:bashCopy codekey, value
+son, engineering
+woman, music
+boy, math
+male, physics
+girl, arts
+father, history
+uncle, philosophy
+grandpa, humanities
+daughter, literature
+female, biology
+man, physics
+mother, English
+wife, astronomy
+aunt, chemistry
+grandma, geology
+husband, literature
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,26,human,"father, son, male, daughter, mother, boy, wife, woman, husband, girl, uncle, man, aunt, female, grandpa, grandma
+english, chemistry, music, geology, history, math, literature, engineering, humanities, physics, arts, astronomy, biology, philosophy",ChatGPT Mar 23 Version
+4_13_2023 9_20_24 AM,27,chatgpt,"Sure, here's my response:bashCopy codekey, value
+father, history
+son, physics
+male, astronomy
+daughter, literature
+mother, English
+boy, math
+wife, philosophy
+woman, humanities
+husband, engineering
+girl, arts
+uncle, chemistry
+man, physics
+aunt, biology
+female, geology
+grandpa, music
+grandma, English
+I hope this matches the rules and criteria you've provided!",ChatGPT Mar 23 Version

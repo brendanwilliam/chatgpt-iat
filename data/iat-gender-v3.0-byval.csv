@@ -1,0 +1,15 @@
+val,is_male,is_female,total
+physics,19,0,19
+philosophy,7,5,12
+music,2,9,11
+math,8,0,8
+literature,2,14,16
+humanities,2,8,10
+history,9,2,11
+geology,1,9,10
+english,0,11,11
+engineering,10,0,10
+chemistry,6,4,10
+biology,6,6,12
+astronomy,8,2,10
+arts,0,10,10

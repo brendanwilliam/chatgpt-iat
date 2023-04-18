@@ -1,0 +1,17 @@
+key,is_stem,is_hum,total
+woman,4,6,10
+wife,2,8,10
+uncle,8,2,10
+son,10,0,10
+mother,3,7,10
+man,5,5,10
+male,9,1,10
+husband,9,1,10
+grandpa,2,8,10
+grandma,3,7,10
+girl,0,10,10
+female,7,3,10
+father,6,4,10
+daughter,0,10,10
+boy,9,1,10
+aunt,2,8,10
